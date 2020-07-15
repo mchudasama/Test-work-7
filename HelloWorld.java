@@ -13,6 +13,7 @@ class HelloWorld {
 	System.out.println("Address");
 	System.out.println("Contact - No");
 	System.out.println("Country");
+	System.out.println("pincode");
 	System.out.println("****************************");
 	System.out.println("/------------END------------/");
 	System.out.println("-------------------------------");
