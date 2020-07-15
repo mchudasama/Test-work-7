@@ -1,5 +1,6 @@
 class HelloWorld {
     public static void main(String[] args) {
+	System.out.println("****************************");
 	System.out.println("-------------------------------");
 	System.out.println("****************************");
 	System.out.println("/-----------Start---------------/");
@@ -13,5 +14,6 @@ class HelloWorld {
 	System.out.println("****************************");
 	System.out.println("/------------END------------/");
 	System.out.println("-------------------------------");
+	System.out.println("****************************");
     }
 }
