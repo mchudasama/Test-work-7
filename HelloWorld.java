@@ -14,6 +14,8 @@ class HelloWorld {
 	System.out.println("Contact - No");
 	System.out.println("Country");
 	System.out.println("pincode");
+	System.out.println("Address2");
+	System.out.println("Address3");
 	System.out.println("****************************");
 	System.out.println("/------------END------------/");
 	System.out.println("-------------------------------");
