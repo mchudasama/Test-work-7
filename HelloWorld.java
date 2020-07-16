@@ -28,5 +28,10 @@ class HelloWorld {
 	System.out.println("Address");
 	System.out.println("Contact - No");
 	System.out.println("Country");
+	System.out.println("-------------------------------");
+	System.out.println("****************************");
+	System.out.println("-------------------------------");
+	System.out.println("****************************");
+	System.out.println("/-----------Start---------------/");
     }
 }
